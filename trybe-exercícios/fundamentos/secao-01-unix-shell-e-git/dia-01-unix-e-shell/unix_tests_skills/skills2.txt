@@ -1,0 +1,8 @@
+Internet
+Unix
+Bash
+Ruby
+JavaScripty
+Ruby on Rails
+NodeJS
+Bootstrap
